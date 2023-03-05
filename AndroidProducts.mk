@@ -6,9 +6,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/omni_bahamut_kddi.mk
+    $(LOCAL_DIR)/twrp_bahamut_kddi.mk
 
 COMMON_LUNCH_CHOICES := \
-    omni_bahamut_kddi-user \
-    omni_bahamut_kddi-userdebug \
-    omni_bahamut_kddi-eng
+    twrp_bahamut_kddi-user \
+    twrp_bahamut_kddi-userdebug \
+    twrp_bahamut_kddi-eng
